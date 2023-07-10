@@ -1,0 +1,128 @@
+.cuerpo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header1 {
+    background-color: black;
+}
+
+#opc-header {
+    font-size: large;
+}
+
+#titulo {
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+
+#opciones-btn {
+    font-size: larger;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.img-titulo {
+    width: 100px;
+    height: 100px;
+}
+
+#img-ofertas {
+    height: 250px;
+}
+
+#detalle {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+h3 {
+    color: green;
+}
+
+h6 {
+    color: red;
+}
+
+.img-final {
+    height: 400px;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.panoramica {
+    height: 320px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+
+}
+
+h2 {
+    padding: 20px;
+    text-align: left;
+    width: 200px;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    border: solid;
+}
+
+
+#tarjeta {
+    border-width: 100px;
+    border: solid;
+    color: black;
+}
+
+#selecciones{
+    padding: 20px;
+    text-align: left;
+    width: 280px;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    border: solid;
+}
+
+#div-inicio{
+    justify-content: center;
+    display: flex;
+}
+#btn-inicio{
+    background-color: black;
+    width: 400px;
+    border-color: black;
+}
+#contacto{
+justify-content: center;
+display: flex;
+}
+
+h3{
+    color: black;
+}
